@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Full Name</h1>
-<h3 align="center">A short line about you</h3>
+<h1 align="center">Hi 👋, I'm VANSH NATHWANI</h1>
+<h3 align="center">I AM LEARNING GIT AND GIT HUB</h3>
 
-- 🔭 I’m in my xyz year in xyz course in UPES, Dehradun.
-- 🌱 I’m presently learning  xyz
-- 💬My hobbies are xyz
+- 🔭 I’m in my 1ST year in BTECH CSE course in UPES, Dehradun.
+- 🌱 I’m presently learning  GIT AND GIT HUB
+- 💬My hobbies are PHOTOGRAPHY
 
-- ⚡ Fun fact about me :   *Fun Fact*
+- ⚡ Fun fact about me :   SARCASAM
