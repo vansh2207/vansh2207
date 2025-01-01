@@ -1,5 +1,5 @@
 Hi 👋, I'm Vansh Nathwani
-<h3 align="center">B.Tech CSE Student | Specializing in AI & Machine Learning</h3>
+<h3 align="center">B.Tech CSE Student | Specializing in Cyber Security and Forensics</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
